@@ -8,10 +8,10 @@ I first **exported** the project from Figma through a **plugin**. This resulted 
 - **Styles** for typography
 
 I then did a **complete refactor**:
-- Reduced how verbose the HTML file was by removing unused wrapper tags
+- Reduced verbosity of the HTML file by removing unused wrapper tags
 - Standardized the structure of all HTML elements
 - Deleted useless and overly-specific CSS classes
 - Added generalized classes that reflected the ones used in the original Figma project
 
-## Points to improve
+## Points of improvement
 The spacing is still off for some components, and it needs a deeper look
